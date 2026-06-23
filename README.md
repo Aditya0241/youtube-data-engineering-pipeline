@@ -36,7 +36,7 @@ The project uses the YouTube Trending Videos dataset from Kaggle, containing tre
 
 ## Dashboard
 
-![Dashboard](Youtube_Analysis.jpg)
+![Dashboard](Dashboard/Youtube_Analysis.jpg)
 
 ## Skills Demonstrated
 
